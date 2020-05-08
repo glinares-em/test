@@ -1,1 +1,1 @@
-print("Nice day")
+print("Nice day here in Oslo")
